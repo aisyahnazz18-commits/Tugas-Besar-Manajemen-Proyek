@@ -7,13 +7,13 @@ Seluruh file disusun sebagai **referensi penulisan laporan** berdasarkan *knowle
 
 ---
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 **PlantSense** merupakan proyek pengembangan sistem hidroponik berbasis Internet of Things (IoT) yang berfungsi untuk memantau kondisi tanaman secara real-time, meliputi suhu, pH, nutrisi, dan kadar air.  
 Proyek ini bertujuan meningkatkan efisiensi budidaya hidroponik, mengurangi pemeriksaan manual, serta menyediakan data pendukung untuk pengambilan keputusan perawatan tanaman.
 
 ---
 
-## 📂 Struktur Repository
+## Struktur Repository
 
 Repositori ini terdiri dari beberapa file dan folder utama sebagai berikut:
 
@@ -55,7 +55,7 @@ Repositori ini terdiri dari beberapa file dan folder utama sebagai berikut:
 
 ---
 
-## 👥 Tim Proyek
+## Tim Proyek
 - **Project Manager** : Ais  
 - **Engineer IoT** : Yudha  
 - **Backend / Data Developer** : Talita  
@@ -63,12 +63,12 @@ Repositori ini terdiri dari beberapa file dan folder utama sebagai berikut:
 
 ---
 
-## 🎯 Tujuan Repository
+## Tujuan Repository
 - Menyediakan referensi terstruktur untuk setiap BAB Manajemen Proyek
 - Mendukung penyusunan Project Charter, WBS, dan dokumen perencanaan proyek
 - Menjadi arsip dokumentasi proyek PlantSense untuk keperluan akademik
 
 ---
 
-## 📝 Catatan
+## Catatan
 Repositori ini disusun untuk keperluan akademik mata kuliah **Manajemen Proyek** dan dapat dikembangkan lebih lanjut sesuai kebutuhan evaluasi dan penilaian.
