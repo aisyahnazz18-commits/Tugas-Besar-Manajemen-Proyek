@@ -1,74 +1,90 @@
-# Tugas-Besar-Manajemen-Proyek
+# 📘 Tugas-Besar-Manajemen-Proyek
 
-Repositori ini berisi **dokumen pendukung Tugas Besar Manajemen Proyek** dengan studi kasus  
-**PlantSense – Sistem Hidroponik IoT dengan Sensor Real-Time**.
+Repositori ini berisi **dokumen pendukung Tugas Besar Mata Kuliah Manajemen Proyek** dengan studi kasus:
 
-Seluruh file disusun sebagai **referensi penulisan laporan** berdasarkan *knowledge area* Manajemen Proyek dari **BAB 1 sampai BAB 10**.
+> **PlantSense – Sistem Hidroponik IoT dengan Sensor Real-Time**
 
----
-
-## Deskripsi Proyek
-**PlantSense** merupakan proyek pengembangan sistem hidroponik berbasis Internet of Things (IoT) yang berfungsi untuk memantau kondisi tanaman secara real-time, meliputi suhu, pH, nutrisi, dan kadar air.  
-Proyek ini bertujuan meningkatkan efisiensi budidaya hidroponik, mengurangi pemeriksaan manual, serta menyediakan data pendukung untuk pengambilan keputusan perawatan tanaman.
+Seluruh dokumen disusun sebagai **simulasi akademik perencanaan proyek**, mencakup *knowledge area* Manajemen Proyek dari **BAB 1 sampai BAB 10**.
 
 ---
 
-## Struktur Repository
+## 📌 Deskripsi Proyek
+
+**PlantSense** merupakan proyek pengembangan **sistem hidroponik berbasis Internet of Things (IoT)** yang dirancang untuk memantau kondisi tanaman secara **real-time**, meliputi:
+
+* Suhu
+* pH air
+* Kadar nutrisi
+* Kadar air
+
+Proyek ini bertujuan untuk meningkatkan efisiensi budidaya hidroponik, mengurangi ketergantungan pada pemeriksaan manual, serta menyediakan data pendukung untuk pengambilan keputusan perawatan tanaman.
+Seluruh perencanaan proyek disusun sebagai **studi kasus akademik** untuk penerapan konsep Manajemen Proyek.
+
+---
+
+## 📂 Struktur Repository
 
 Repositori ini terdiri dari beberapa file dan folder utama sebagai berikut:
 
-- **README.md**  
-  Penjelasan umum repositori dan isi dokumen.
+* **README.md**
+  Penjelasan umum repositori dan struktur dokumen.
 
-- **Project Charter (akan ditambahkan)**  
-  Dokumen inisiasi proyek yang memuat tujuan, ruang lingkup, stakeholder, risiko, milestone, dan rencana komunikasi proyek.
+* **PROJECT MANAGEMENT PLAN.pdf**
+  Dokumen laporan akhir *Project Management Plan* PlantSense (BAB 1 – BAB 10).
 
-- **ReferensiBAB2ProjectScopeManagement.zip**  
-  Referensi BAB 2 – *Project Scope Management*.
+* **Project Charter PlantSense.pdf**
+  Dokumen inisiasi proyek yang memuat tujuan proyek, ruang lingkup awal, stakeholder, risiko utama, milestone, serta gambaran rencana proyek.
 
-- **ReferensiBAB3ProjectTime-ScheduleManagement.zip**  
-  Referensi BAB 3 – *Project Schedule / Time Management*.
+* **ReferensiBAB2ProjectScopeManagement.zip**
+  Referensi penyusunan BAB 2 – *Project Scope Management*.
 
-- **ReferensiBAB4ProjectCostManagement.zip**  
-  Referensi BAB 4 – *Project Cost Management*.
+* **ReferensiBAB3ProjectTime-ScheduleManagement.zip**
+  Referensi penyusunan BAB 3 – *Project Time / Schedule Management*.
 
-- **ReferensiBAB5ProjectStakeholderManagement.zip**  
-  Referensi BAB 5 – *Project Stakeholder Management*.
+* **ReferensiBAB4ProjectCostManagement.zip**
+  Referensi penyusunan BAB 4 – *Project Cost Management*.
 
-- **ReferensiBAB6ProjectQualityManagement.zip**  
-  Referensi BAB 6 – *Project Quality Management*.
+* **ReferensiBAB5ProjectStakeholderManagement.zip**
+  Referensi penyusunan BAB 5 – *Project Stakeholder Management*.
 
-- **ReferensiBAB7ProjectHumanResourceManagement.zip**  
-  Referensi BAB 7 – *Project Human Resource Management*.
+* **ReferensiBAB6ProjectQualityManagement.zip**
+  Referensi penyusunan BAB 6 – *Project Quality Management*.
 
-- **ReferensiBAB8ProjectCommunicationManagement.zip**  
-  Referensi BAB 8 – *Project Communication Management*.
+* **ReferensiBAB7ProjectHumanResourceManagement.zip**
+  Referensi penyusunan BAB 7 – *Project Human Resource Management*.
 
-- **ReferensiBAB9ProjectRiskManagement.zip**  
-  Referensi BAB 9 – *Project Risk Management*.
+* **ReferensiBAB8ProjectCommunicationManagement.zip**
+  Referensi penyusunan BAB 8 – *Project Communication Management*.
 
-- **ReferensiBAB10ProjectProcurementManagement.zip**  
-  Referensi BAB 10 – *Project Procurement Management*.
+* **ReferensiBAB9ProjectRiskManagement.zip**
+  Referensi penyusunan BAB 9 – *Project Risk Management*.
 
-- **WBSPlantSense.png**  
-  Work Breakdown Structure (WBS) proyek PlantSense sebagai data pendukung perencanaan proyek.
+* **ReferensiBAB10ProjectProcurementManagement.zip**
+  Referensi penyusunan BAB 10 – *Project Procurement Management*.
 
----
-
-## Tim Proyek
-- **Project Manager** : Ais  
-- **Engineer IoT** : Yudha  
-- **Backend / Data Developer** : Talita  
-- **Spesialis Hidroponik** : Habil  
+* **WBSPlantSense.png**
+  Diagram **Work Breakdown Structure (WBS)** proyek PlantSense sebagai data pendukung perencanaan scope dan jadwal proyek.
 
 ---
 
-## Tujuan Repository
-- Menyediakan referensi terstruktur untuk setiap BAB Manajemen Proyek
-- Mendukung penyusunan Project Charter, WBS, dan dokumen perencanaan proyek
-- Menjadi arsip dokumentasi proyek PlantSense untuk keperluan akademik
+## 👥 Tim Proyek
+
+* **Project Manager** : Aisyah Nur Azizah S.
+* **Engineer IoT** : M. Darmawan Wirayudha
+* **Backend / Data Developer** : Talita Ratu Eugene
+* **Spesialis Hidroponik** : Habil Akbar Awwaly
 
 ---
 
-## Catatan
-Repositori ini disusun untuk keperluan akademik mata kuliah **Manajemen Proyek** dan dapat dikembangkan lebih lanjut sesuai kebutuhan evaluasi dan penilaian.
+## 🎯 Tujuan Repository
+
+* Menyediakan referensi terstruktur untuk setiap BAB Manajemen Proyek
+* Mendukung penyusunan *Project Charter*, WBS, dan *Project Management Plan*
+* Menjadi arsip dokumentasi proyek PlantSense untuk keperluan akademik
+
+---
+
+## ℹ️ Catatan
+
+Repositori ini disusun **khusus untuk keperluan akademik** mata kuliah **Manajemen Proyek**.
+Seluruh dokumen bersifat **simulasi perencanaan proyek** dan tidak merepresentasikan proyek komersial nyata.
