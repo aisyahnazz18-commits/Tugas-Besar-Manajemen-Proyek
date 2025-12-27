@@ -1,4 +1,4 @@
-# 📘 Tugas-Besar-Manajemen-Proyek
+# Tugas-Besar-Manajemen-Proyek
 
 Repositori ini berisi **dokumen pendukung Tugas Besar Mata Kuliah Manajemen Proyek** dengan studi kasus:
 
